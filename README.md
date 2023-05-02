@@ -121,10 +121,11 @@ plt.show()
 
 ### True Stock Price, Predicted Stock Price vs time
 
-![In](2.png)
-### Mean Square Error
 
 ![In](3.png)
+### Mean Square Error
+
+![In](2.png)
 ## RESULT
 Thus, we have successfully created a Simple RNN model for Stock Price Prediction.
 
